@@ -87,6 +87,10 @@ footer {
   .introImg {
     padding: 0 0;
   }
+  
+  #home {
+    font-size: 21px;
+  }
 }
 
 .hero-btn {
